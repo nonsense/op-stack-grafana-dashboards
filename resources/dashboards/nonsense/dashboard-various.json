@@ -131,7 +131,7 @@
             "useBackend": false
           }
         ],
-        "title": "op-node - Enqueued events by type",
+        "title": "op-node - Inflight events by type",
         "type": "timeseries"
       },
       {
@@ -236,7 +236,7 @@
             "useBackend": false
           }
         ],
-        "title": "op-supervisor - Enqueued events by type",
+        "title": "op-supervisor - Inflight events by type",
         "type": "timeseries"
       },
       {
@@ -341,7 +341,7 @@
             "useBackend": false
           }
         ],
-        "title": "op-node - Total enqueued events",
+        "title": "op-node - Total inflight events",
         "type": "timeseries"
       },
       {
@@ -446,7 +446,7 @@
             "useBackend": false
           }
         ],
-        "title": "op-supervisor - Total enqueued events",
+        "title": "op-supervisor - Total inflight events",
         "type": "timeseries"
       },
       {
